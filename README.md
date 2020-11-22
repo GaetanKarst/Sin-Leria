@@ -12,6 +12,8 @@ Making this game allowed me to work on different gameplay mechanics such as atta
 
 Gameplay:
 
+The player summons his units on the board, by first selecting the desired unit to invoke through the unit pannel, and place it in the world by clicking in the desired place. Depending on each unit, the player will need to spend a certain amount of star that can be gained using the star trophee (non-offensive unit). Finally, the player will simply need to place his army strategically, depending on the kind of enemies the waves are composed.
+
 At the beginning of each level, the game is slowed down letting the player read the subordinate indications (tutorial). The normal pace is back when the player click somewhere in the world.
 
 Type of allies:
