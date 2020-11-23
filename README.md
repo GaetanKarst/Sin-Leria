@@ -26,3 +26,11 @@ Type of enemies:
 1. The Walkers: they are the basic enemies, they move fast and are the easiest enemy unit to kill. 
 2. The Knights: they are the enemy leaders, deal heavy damages, are quite tanky and can jump over blocking stones.
 3. The ice Golems: they deal serious damages but move at a slow pace. Although they are really difficult to kill, the blocking stone can play a real crucial role against them.
+
+![SL_1](https://user-images.githubusercontent.com/66731438/99932721-47f02280-2d9c-11eb-8211-3c80725d4f04.PNG)
+![SL_2](https://user-images.githubusercontent.com/66731438/99932715-44f53200-2d9c-11eb-95d8-8bb0c9bc6a00.PNG)
+![SL_3](https://user-images.githubusercontent.com/66731438/99932717-46bef580-2d9c-11eb-845f-1f8d9d041cfd.PNG)
+![SL_4](https://user-images.githubusercontent.com/66731438/99932718-46bef580-2d9c-11eb-8756-f6765d939aab.PNG)
+![SL_6](https://user-images.githubusercontent.com/66731438/99932720-47578c00-2d9c-11eb-830d-0064abb8bc49.PNG)
+
+
